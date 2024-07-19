@@ -197,9 +197,9 @@ namespace EldenRingSaves
             FileSystem.DeleteDirectory(archivePath, UIOption.OnlyErrorDialogs, RecycleOption.SendToRecycleBin);
             CopyDirectory(saveFolderPath + '\\' + selectArchiveName, archivePath, true);
             //Directory.Delete(saveFolderPath + '\\' + selectArchiveName, true);
-            FileSystem.DeleteDirectory(saveFolderPath + '\\' + selectArchiveName, UIOption.OnlyErrorDialogs, RecycleOption.SendToRecycleBin);
-            lstNames.Items.Remove(delItem);
-            archiveFolderNames.Remove(selectArchiveName);
+            //FileSystem.DeleteDirectory(saveFolderPath + '\\' + selectArchiveName, UIOption.OnlyErrorDialogs, RecycleOption.SendToRecycleBin);
+            //lstNames.Items.Remove(delItem);
+            //archiveFolderNames.Remove(selectArchiveName);
             SaveArchiveConfig();
         }
 
