@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EldenRingSaves", "EldenRingSaves.csproj", "{7E9AF74E-83F3-471D-AD81-7B0B0589015A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EldenRingSaveToolSetUp", "..\EldenRingSaveToolSetUp\EldenRingSaveToolSetUp.vdproj", "{0B2ABE94-3019-4666-B617-2E213309FB65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E9AF74E-83F3-471D-AD81-7B0B0589015A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9AF74E-83F3-471D-AD81-7B0B0589015A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9AF74E-83F3-471D-AD81-7B0B0589015A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9AF74E-83F3-471D-AD81-7B0B0589015A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2ABE94-3019-4666-B617-2E213309FB65}.Debug|Any CPU.ActiveCfg = Debug
+		{0B2ABE94-3019-4666-B617-2E213309FB65}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C0EBB9-BAFB-4A48-A6B5-B7B42E9B74D9}
+	EndGlobalSection
+EndGlobal

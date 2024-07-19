@@ -1,0 +1,44 @@
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\bin\Debug\net8.0-windows\EldenRingSaves.exe
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\bin\Debug\net8.0-windows\EldenRingSaves.deps.json
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\bin\Debug\net8.0-windows\EldenRingSaves.runtimeconfig.json
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\bin\Debug\net8.0-windows\EldenRingSaves.dll
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\bin\Debug\net8.0-windows\EldenRingSaves.pdb
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\Interop.VBIDE.dll
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.csproj.ResolveComReference.cache
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\App.g.cs
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves_MarkupCompile.cache
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves_MarkupCompile.lref
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\MainWindow.baml
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.g.resources
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.AssemblyInfoInputs.cache
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.AssemblyInfo.cs
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.dll
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\refint\EldenRingSaves.dll
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.pdb
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.genruntimeconfig.cache
+G:\Visual Studio\Visual Studio Project\EldenRingSaves\obj\Debug\net8.0-windows\ref\EldenRingSaves.dll
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\bin\Debug\net8.0-windows\EldenRingSaves.exe
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\bin\Debug\net8.0-windows\EldenRingSaves.deps.json
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\bin\Debug\net8.0-windows\EldenRingSaves.runtimeconfig.json
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\bin\Debug\net8.0-windows\EldenRingSaves.dll
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\bin\Debug\net8.0-windows\EldenRingSaves.pdb
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\Interop.VBIDE.dll
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.csproj.ResolveComReference.cache
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\App.g.cs
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves_MarkupCompile.cache
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves_MarkupCompile.lref
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\MainWindow.baml
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.g.resources
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.AssemblyInfoInputs.cache
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.AssemblyInfo.cs
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.csproj.CoreCompileInputs.cache
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.dll
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\refint\EldenRingSaves.dll
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.pdb
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.genruntimeconfig.cache
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\ref\EldenRingSaves.dll

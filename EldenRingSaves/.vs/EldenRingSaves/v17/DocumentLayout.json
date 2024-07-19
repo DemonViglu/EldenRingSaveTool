@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\EldenRingSaveTool\\EldenRingSaves\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9AF74E-83F3-471D-AD81-7B0B0589015A}|EldenRingSaves.csproj|e:\\github\\eldenringsavetool\\eldenringsaves\\eldenringsaves.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E9AF74E-83F3-471D-AD81-7B0B0589015A}|EldenRingSaves.csproj|solutionrelative:eldenringsaves.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9AF74E-83F3-471D-AD81-7B0B0589015A}|EldenRingSaves.csproj|e:\\github\\eldenringsavetool\\eldenringsaves\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9AF74E-83F3-471D-AD81-7B0B0589015A}|EldenRingSaves.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9AF74E-83F3-471D-AD81-7B0B0589015A}|EldenRingSaves.csproj|e:\\github\\eldenringsavetool\\eldenringsaves\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E9AF74E-83F3-471D-AD81-7B0B0589015A}|EldenRingSaves.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EldenRingSaves",
+              "DocumentMoniker": "E:\\GitHub\\EldenRingSaveTool\\EldenRingSaves\\EldenRingSaves.csproj",
+              "RelativeDocumentMoniker": "EldenRingSaves.csproj",
+              "ToolTip": "E:\\GitHub\\EldenRingSaveTool\\EldenRingSaves\\EldenRingSaves.csproj",
+              "RelativeToolTip": "EldenRingSaves.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-19T14:15:32.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\GitHub\\EldenRingSaveTool\\EldenRingSaves\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\GitHub\\EldenRingSaveTool\\EldenRingSaves\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T12:36:37.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\GitHub\\EldenRingSaveTool\\EldenRingSaves\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\GitHub\\EldenRingSaveTool\\EldenRingSaves\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAQwKMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:36:36.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

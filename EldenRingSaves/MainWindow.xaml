@@ -1,0 +1,43 @@
+﻿<Window x:Class="EldenRingSaves.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EldenRingSaves"
+        mc:Ignorable="d"
+        Title="DemonViglu's Window" Height="312" Width="512">
+    <Grid Margin="10">
+        <Grid.Background>
+            <ImageBrush>
+                <ImageBrush.ImageSource>
+                    <BitmapImage CacheOption="OnLoad" CreateOptions="IgnoreImageCache" UriSource="Sources/Elysia.png"/>
+                </ImageBrush.ImageSource>
+            </ImageBrush>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Margin="30,10,0,5" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" x:Name="archivePathText">AchivePath:C:\\</TextBlock>
+        <TextBlock Margin="30,5,0,10" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" x:Name="savePathText">EMPTY</TextBlock>
+        <ListBox Grid.Row="2" x:Name="lstNames" Opacity="0.5"  Margin="10,0,0,10">
+        </ListBox>
+
+        <StackPanel Grid.Row="2" Grid.Column="1" Margin="5,0,10,0" Opacity="0.8">
+            <TextBox x:Name="txtName" Height="30"/>
+            <Button x:Name="SelectPath" Margin="0,5,0,0" Click="OnSelectPathButton">Select MainSave Path</Button>
+            <Button x:Name="SeleveSavePath" Margin="0,5,0,0" Click="OnSelectSavePathButton">Select Copy Save Path</Button>
+            <Button x:Name="btnAdd" Margin="0,5,0,0" Click="OnSaveButton">Save Arhive</Button>
+            <Button x:Name="changeButton" Margin="0,5,0,0" Click="OnChangeButton">Change to:</Button>
+            <Button x:Name="delButton" Margin="0,5,0,0" Click="OnDelButton">DeleteArhive</Button>
+        </StackPanel>
+    </Grid>
+</Window>
