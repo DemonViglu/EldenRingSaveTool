@@ -89,7 +89,7 @@ namespace EldenRingSaves
 
         public void Start()
         {
-            while (!archivePath.Contains("EldenRing\\"))
+            if((!archivePath.Contains("EldenRing\\")))
             {
                 SetArchivePath("请选择正确的法环文件夹中的主存档文件夹");
             }
@@ -105,7 +105,7 @@ namespace EldenRingSaves
         private void OnSelectPathButton(object sender, RoutedEventArgs e)
         {
             SetArchivePath("请选择存档文件夹");
-            while (!archivePath.Contains("EldenRing\\"))
+            if (!archivePath.Contains("EldenRing\\"))
             {
                 SetArchivePath("请选择正确的法环文件夹中的主存档文件夹");
             }
@@ -121,6 +121,11 @@ namespace EldenRingSaves
         }
         private void OnSaveButton(object sender, RoutedEventArgs e)
         {
+            if ((!archivePath.Contains("EldenRing\\")))
+            {
+                SetArchivePath("请选择正确的法环文件夹中的主存档文件夹");
+                return;
+            }
             if (!string.IsNullOrWhiteSpace(txtName.Text))
             {
                 if (archiveFolderNames.Contains(txtName.Text) || Directory.Exists(archivePath + txtName))
@@ -151,6 +156,10 @@ namespace EldenRingSaves
         }
         private void OnDelButton(object sender, RoutedEventArgs e)
         {
+            if ((!archivePath.Contains("EldenRing\\")))
+            {
+                SetArchivePath("请选择正确的法环文件夹中的主存档文件夹");
+            }
             if (selectArchiveName == "") return;
             MessageBoxButton boxButton = MessageBoxButton.YesNo;
 
@@ -170,6 +179,10 @@ namespace EldenRingSaves
         }
         private void OnChangeButton(object sender, RoutedEventArgs e)
         {
+            if ((!archivePath.Contains("EldenRing\\")))
+            {
+                SetArchivePath("请选择正确的法环文件夹中的主存档文件夹");
+            }
             if (selectArchiveName == "") return;
             MessageBoxButton boxButton = MessageBoxButton.YesNo;
 

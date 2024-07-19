@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EldenRingSaves")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd7e4c4227528a6d9f46680a707ceb859c04c0d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("EldenRingSaves")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EldenRingSaves")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

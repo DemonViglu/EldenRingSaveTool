@@ -42,3 +42,4 @@ E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\refint\Elden
 E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.pdb
 E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.genruntimeconfig.cache
 E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\ref\EldenRingSaves.dll
+E:\GitHub\EldenRingSaveTool\EldenRingSaves\obj\Debug\net8.0-windows\EldenRingSaves.sourcelink.json

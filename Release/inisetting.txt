@@ -1,4 +1,3 @@
 C:\Users\ASUS\AppData\Roaming\EldenRing\76561198856498165
-D:\DemonDesktop\OwnerFile\Elden Ring BackUP
+C:\Users\ASUS\Desktop\Backup
 ArchiveFolders:
-暗月大剑
